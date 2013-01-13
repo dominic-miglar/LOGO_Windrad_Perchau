@@ -1,4 +1,5 @@
-LOGO_Windrad_Perchau
+﻿LOGO_Windrad_Perchau
 ====================
 
-Sienens LOGO! Programm, drehzahlgesteuerte Phasenschaltung, Induk. Näherungssensor
+Siemens LOGO! Programm, drehzahlgesteuerte Phasenschaltung, induk. Näherungssensor
+Stand November 2012
